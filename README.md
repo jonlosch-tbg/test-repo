@@ -1,3 +1,3 @@
 # test-repo
 
-master, commit b
+master, commit c
